@@ -6,7 +6,7 @@
         "object-literal-sort-keys": false,
         "array-type": [true, "array"],
         "max-classes-per-file": false,
-        "interface-name": [true, "never-prefix"],
+        "interface-name": [true, "always-prefix"],
         "interface-over-type-literal": false,
         "no-var-requires": false,
         "member-ordering": [
